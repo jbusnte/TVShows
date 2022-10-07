@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1qQSvWYxtQL+LMlSCTuuOuQCvUj1pMGh2PQ7rFdiHfkoARLHi8J7Iqzwi/hJacgT67e1Ujlu+Hcej5qnLyDO4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jhon\\source\\repos\\TVShows\\TVShows\\TVShows.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jhon\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

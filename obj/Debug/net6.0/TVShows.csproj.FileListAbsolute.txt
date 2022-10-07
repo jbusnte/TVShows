@@ -1,0 +1,17 @@
+C:\Users\Jhon\source\repos\TVShows\TVShows\bin\Debug\net6.0\TVShows.exe
+C:\Users\Jhon\source\repos\TVShows\TVShows\bin\Debug\net6.0\TVShows.deps.json
+C:\Users\Jhon\source\repos\TVShows\TVShows\bin\Debug\net6.0\TVShows.runtimeconfig.json
+C:\Users\Jhon\source\repos\TVShows\TVShows\bin\Debug\net6.0\TVShows.dll
+C:\Users\Jhon\source\repos\TVShows\TVShows\bin\Debug\net6.0\TVShows.pdb
+C:\Users\Jhon\source\repos\TVShows\TVShows\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Jhon\source\repos\TVShows\TVShows\obj\Debug\net6.0\TVShows.csproj.AssemblyReference.cache
+C:\Users\Jhon\source\repos\TVShows\TVShows\obj\Debug\net6.0\TVShows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhon\source\repos\TVShows\TVShows\obj\Debug\net6.0\TVShows.AssemblyInfoInputs.cache
+C:\Users\Jhon\source\repos\TVShows\TVShows\obj\Debug\net6.0\TVShows.AssemblyInfo.cs
+C:\Users\Jhon\source\repos\TVShows\TVShows\obj\Debug\net6.0\TVShows.csproj.CoreCompileInputs.cache
+C:\Users\Jhon\source\repos\TVShows\TVShows\obj\Debug\net6.0\TVShows.csproj.CopyComplete
+C:\Users\Jhon\source\repos\TVShows\TVShows\obj\Debug\net6.0\TVShows.dll
+C:\Users\Jhon\source\repos\TVShows\TVShows\obj\Debug\net6.0\refint\TVShows.dll
+C:\Users\Jhon\source\repos\TVShows\TVShows\obj\Debug\net6.0\TVShows.pdb
+C:\Users\Jhon\source\repos\TVShows\TVShows\obj\Debug\net6.0\TVShows.genruntimeconfig.cache
+C:\Users\Jhon\source\repos\TVShows\TVShows\obj\Debug\net6.0\ref\TVShows.dll
